@@ -3,7 +3,7 @@
 > Thornhill Subaru is a  dealership in Terrace. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/): 57 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/): 56 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
