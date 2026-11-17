@@ -1,7 +1,7 @@
 {
   "dealership": "Thornhill Subaru",
-  "generated_at": "2026-11-17T09:47:13",
-  "vehicle_count": 56,
+  "generated_at": "2026-11-17T10:40:09",
+  "vehicle_count": 51,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -128,13 +128,13 @@
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
-      "vin": "JF2GUSNDXT8239153",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/08384df113b4.html",
+      "vin": "JF2GUSND5T8225330",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/99cf2ef4820f.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
       "condition": "new",
-      "price": 43421.0,
+      "price": 43416.0,
       "price_currency": "CAD"
     },
     {
@@ -193,17 +193,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Convenience",
-      "vin": "JF2GUHBC9T8267055",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/177d64c4d7ea.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 33427.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Crosstrek Onyx",
       "vin": "JF2GUHFC0T8270923",
       "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/66f968749833.html",
@@ -227,28 +216,6 @@
     },
     {
       "name": "2026 Subaru Crosstrek Touring",
-      "vin": "JF2GUHDC3T8267050",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/c93be3d75143.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 36427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx",
-      "vin": "JF2GUHFC2T8279669",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/64ccea6c40c2.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 37927.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Touring",
       "vin": "JF2GUHDC8T8279551",
       "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/fbe18f6b2937.html",
       "year": 2026,
@@ -256,17 +223,6 @@
       "model": "Crosstrek",
       "condition": "new",
       "price": 36427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx",
-      "vin": "JF2GUHFC6T8282168",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/63ca6c1a91a7.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 37927.0,
       "price_currency": "CAD"
     },
     {
@@ -314,6 +270,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Subaru Forester Sport",
+      "vin": "JF2SLDHC7TH464187",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/f0d4bb4f80f3.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 44527.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Subaru Forester Forester Hybrid Premier",
       "vin": "JF2SLSTD5TH464192",
       "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/c9f0da8d1d8a.html",
@@ -333,17 +300,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 44527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier",
-      "vin": "JF2SLSTD2TH464344",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/caf94911304d.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51527.0,
       "price_currency": "CAD"
     },
     {
@@ -403,17 +359,6 @@
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier",
-      "vin": "JF2SLSTD6TH475024",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/fa59bc8cd974.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier",
       "vin": "JF2SLSTD4TH475023",
       "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/c2359639eac4.html",
       "year": 2026,
@@ -432,28 +377,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 46527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring",
-      "vin": "JF2SLDDCXTH475352",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/ed3ab07bd674.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42028.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring",
-      "vin": "JF2SLDDCXTH475335",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/42325e50702e.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42028.0,
       "price_currency": "CAD"
     },
     {
@@ -512,6 +435,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Subaru Forester Hybrid Premier",
+      "vin": "JF2SLSTD4TH478844",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/9e1fdf1d0f7c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 51527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Limited",
+      "vin": "JF2SLDRCXTH480074",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/5c4133270820.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 46527.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Subaru Outback Premier XT",
       "vin": "JF2BURJD9TY556172",
       "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/63e85a8afa4f.html",
@@ -531,17 +476,6 @@
       "model": "Outback",
       "condition": "new",
       "price": 43727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Wilderness",
-      "vin": "JF2BURLD5TY591613",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/bb363f67ef50.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 52027.0,
       "price_currency": "CAD"
     },
     {
@@ -597,6 +531,17 @@
       "model": "Outback",
       "condition": "new",
       "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Premier XT",
+      "vin": "JF2BURJD6TY605120",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/new/12d634de4c22.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 54027.0,
       "price_currency": "CAD"
     },
     {

@@ -1,6 +1,6 @@
 # Thornhill Subaru
 
- dealership in Terrace. AI-readable inventory mirror, about 56 vehicles.
+ dealership in Terrace. AI-readable inventory mirror, about 51 vehicles.
 
 - Official website: https://www.thornhillsubaru.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/
