@@ -1,10 +1,43 @@
 {
   "dealership": "Thornhill Subaru",
-  "generated_at": "2026-10-26T08:47:36",
-  "vehicle_count": 53,
+  "generated_at": "2026-11-17T09:47:13",
+  "vehicle_count": 56,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2006 Honda Element Y Pkg",
+      "vin": "5J6YH28746L801332",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/bbbc94d6f644.html",
+      "year": 2006,
+      "make": "Honda",
+      "model": "Element Y Pkg",
+      "condition": "used",
+      "price": 9995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 Ford Focus Hatchback SE",
+      "vin": "1FADP3K27EL290469",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/26acbd5e83ab.html",
+      "year": 2014,
+      "make": "Ford",
+      "model": "Focus",
+      "condition": "used",
+      "price": 9995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Jeep Wrangler Sport",
+      "vin": "1C4AJWAG3FL700232",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/beb283db67b6.html",
+      "year": 2015,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "2016 Mazda CX-3 GS",
       "vin": "JM1DKBC78G0106870",
@@ -17,13 +50,37 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Chevrolet Cruze Hatchback LT",
+      "vin": "3G1BE6SM2JS614080",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/7c2f7ababfed.html",
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "condition": "used",
+      "price": 12995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Buick Enclave Essence",
+      "vin": "5GAEVAKW9KJ148225",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/33011b24828c.html",
+      "year": 2019,
+      "make": "Buick",
+      "model": "Enclave",
+      "condition": "used",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Subaru Outback Touring",
       "vin": "4S4BSDGC3K3387344",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/98f5dde8056c.html",
+      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/887892cb3452.html",
       "year": 2019,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "price": 25999.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 Toyota 4Runner ",
@@ -45,28 +102,6 @@
       "model": "Terrain",
       "condition": "used",
       "price": 21999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Kona Electric Preferred",
-      "vin": "KM8K23AG9MU101208",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/03b6b90ec186.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "used",
-      "price": 17999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Buick Encore GX Preferred",
-      "vin": "KL4MMCSLXNB054622",
-      "url": "https://willyml1979-dotcom.github.io/thornhill-subaru-mirror/used/67ede78c2481.html",
-      "year": 2022,
-      "make": "Buick",
-      "model": "Encore GX",
-      "condition": "used",
-      "price": 24999.0,
       "price_currency": "CAD"
     },
     {
